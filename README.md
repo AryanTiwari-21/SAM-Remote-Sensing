@@ -5,6 +5,9 @@
 ![SAM](https://img.shields.io/badge/SAM-Meta_AI-blueviolet)
 ![GroundingDINO](https://img.shields.io/badge/GroundingDINO-IDEA_Research-green)
 ![Colab](https://img.shields.io/badge/Run_on-Google_Colab-F9AB00?logo=googlecolab)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/AryanTiwari21/SAM-Remote-Sensing)
+
+> 🚀 **[Try the Live Demo →](https://huggingface.co/spaces/AryanTiwari21/SAM-Remote-Sensing)**
 
 > Reproducing and extending **"The Segment Anything Model (SAM) for remote sensing applications: From zero to one-shot"** — implementing and comparing multiple segmentation strategies for building extraction on the LoveDA satellite dataset.
 
