@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision
+opencv-python-headless
+Pillow
+numpy
+transformers>=4.36.0
+tokenizers>=0.15.0
+rasterio
+addict
+yapf
+timm
+supervision
+segment-anything @ git+https://github.com/facebookresearch/segment-anything.git
+segment-geospatial @ git+https://github.com/opengeos/segment-geospatial.git
